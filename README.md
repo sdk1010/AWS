@@ -1,4 +1,4 @@
-Getting Started::
+# Getting Started::
 
 Read the Notes, And if you have any questions, Get back.
 
