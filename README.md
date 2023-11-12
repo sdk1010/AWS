@@ -1,9 +1,8 @@
-## AWS Learning
+# AWS Learning
 
 ## Getting Started::
 
 Read the Notes, And if you have any questions, Get back.
-
 
 ## Prerequisites::
 
